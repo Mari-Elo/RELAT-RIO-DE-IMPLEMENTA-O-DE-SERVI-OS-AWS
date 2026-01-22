@@ -1,7 +1,5 @@
 # RELATATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-
 **Data:** 22 de Janeiro de 2026  
 **Empresa:** Abstergo Industries  
 **Responsável:** Maria Eloísa
